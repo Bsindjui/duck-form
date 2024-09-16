@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #9DBEBB;
+    font-family: ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1440px;
+    height: 900px;
+}
+
+.form-container {
+    background-color: white;
+    border-radius: 0px;
+    padding: 20px;
+    width: 954px;
+    height: 594px;
+}
+
+.font-content {
+    display: flex;
+    width: ;
+    height: ;
+}
+
+.form-left {
+    
+
+}
